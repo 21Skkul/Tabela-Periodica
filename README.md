@@ -2,7 +2,7 @@
 
 Um projeto de site para portfólio, adaptando a tabela periódica para um site interativo.
 
-> Status do projeto: em desenvolvimento
+> Status do projeto: **em desenvolvimento**
 > 
 > Próximas atualizações:
 > - Banco de dados em PHP
