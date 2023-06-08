@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+@import url(styles/header.css);
+@import url(styles/tabela.css);
+
+:root {
+    --texto: #000;
+    --fundo-pri: #fff;
+    --fundo-sec: #dadada;
+    --hidrogênio-pri: #9FA0FF;
+    --metais-pri: #9FEB82;
+    --semimetais-pri: #96E8BC;
+    --metaisext-pri: #bbf5a5;
+    --ametais-pri: #FFC759;
+    --gasesnobres-pri: #E58C8A;
+    --hidrogênio-sec: #cccdff;
+    --metais-sec: #c2e4b5;
+    --semimetais-sec: #c2e5d3;
+    --metaisext-sec: #daf1d2;
+    --ametais-sec: #ffe4af;
+    --gasesnobres-sec: #ddbbbb;
+    --font-pri: 'Poppins', sans-serif;
+}
+
+/*:root {
+    --texto: #ffffff;
+    --fundo-pri: #000000;
+    --fundo-sec: #414141;
+    --hidrogênio-pri: #4a4dcf;
+    --metais-pri: #4ba128;
+    --semimetais-pri: #278d57;
+    --metaisext-pri: #438f28;
+    --ametais-pri: #99821c;
+    --gasesnobres-pri: #d65452;
+    --hidrogênio-sec: #545480;
+    --metais-sec: #4d5f45;
+    --semimetais-sec: #314138;
+    --metaisext-sec: #454e41;
+    --ametais-sec: #69644c;
+    --gasesnobres-sec: #6e5e5d;
+    --font-pri: 'Poppins', sans-serif;
+}*/
+
+body {
+    background-color: var(--fundo-pri);
+}

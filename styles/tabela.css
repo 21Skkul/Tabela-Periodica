@@ -1,0 +1,128 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 3em;
+}
+
+.main__h1 {
+    font-family: var(--font-pri);
+    font-size: 100px;
+    font-weight: 600;
+    color: var(--texto);
+}
+
+.main__tabela {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.main__tabela__n {
+    display: flex;
+    align-items: flex-end;
+    margin-bottom: 1.5em;
+}
+
+.main__tabela__grupo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main__tabela__ext__i {
+    display: flex;
+    padding: 0.5em;
+    background-color: var(--fundo-sec);
+}
+
+.main__tabela__a {
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 0.1em;
+    width: 5em;
+    height: 5em;
+    color: var(--texto);
+    border-radius: 10px;
+    border: 1px solid var(--texto);
+    font-family: var(--font-pri);
+}
+
+.hidrogenio {
+    background-color: var(--hidrogênio-pri);
+}
+
+.metais {
+    background-color: var(--metais-pri);
+}
+
+.semimetais {
+    background-color: var(--semimetais-pri);
+}
+
+.metais-ext {
+    background-color: var(--semimetais-pri);
+}
+
+.ametais {
+    background-color: var(--ametais-pri);
+}
+
+.gases-nobres {
+    background-color: var(--gasesnobres-pri);
+}
+
+.hidrogenio:hover {
+    background-color: var(--hidrogênio-sec);
+}
+
+.metais:hover {
+    background-color: var(--metais-sec);
+}
+
+.semimetais:hover {
+    background-color: var(--semimetais-sec);
+}
+
+.metais-ext:hover {
+    background-color: var(--semimetais-sec);
+}
+
+.ametais:hover {
+    background-color: var(--ametais-sec);
+}
+
+.gases-nobres:hover {
+    background-color: var(--gasesnobres-sec);
+}
+
+.info-ex {
+    border-radius: 0;
+    border: none;
+    background-color: var(--fundo-sec);
+}
+
+.info-ex__h3 {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.tabela__a__nome {
+    font-size: 12px;
+}
+
+.tabela__a__simbolo {
+    font-size: 24px;
+    font-weight: 600;
+    margin: 0.1em;
+}
+
+.tabela__grupo__h2 {
+    font-family: var(--font-pri);
+    font-weight: 600;
+    color: var(--texto);
+}
