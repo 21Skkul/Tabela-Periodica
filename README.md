@@ -10,3 +10,4 @@ Um projeto de site para portfólio, adaptando a tabela periódica para um site i
 > - Modo escuro
 > - Legenda interativa e escolha de cores
 > - História da tabela e informações adicionais
+> - Responsividade para celular e tablet
