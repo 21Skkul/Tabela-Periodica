@@ -65,7 +65,7 @@
 }
 
 .metais-ext {
-    background-color: var(--semimetais-pri);
+    background-color: var(--metaisext-pri);
 }
 
 .ametais {
@@ -89,7 +89,7 @@
 }
 
 .metais-ext:hover {
-    background-color: var(--semimetais-sec);
+    background-color: var(--metaisext-sec);
 }
 
 .ametais:hover {
